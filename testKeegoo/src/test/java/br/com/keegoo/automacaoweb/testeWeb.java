@@ -28,7 +28,7 @@ public class testeWeb {
 
     @After
     public void finalizaTeste(){
-        driver.quit()
+
     }
 
 
